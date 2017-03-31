@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="LOAD MORE"
+        android:id="@+id/btLoad"
+        android:background="@color/background_material_light"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@android:color/holo_green_dark" />
+
+</LinearLayout>
